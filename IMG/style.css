@@ -36,8 +36,8 @@ header {
     height: 500px;
     background-color: chartreuse;
     display: inline-block;
-    margin-top: 40px;
-    margin-left: 30px;
+    margin-top: 30px;
+    margin-left: 55px;
 }
 .quadrado2{
     background-color: darkgreen;
@@ -45,8 +45,8 @@ header {
     height: 500px;
     float: right;
         display: inline-block;
-        margin-top: 40px;
-        margin-right: 30px;
+        margin-top: 30px;
+        margin-right: 55px;
 }
 footer{
     background-color: darkolivegreen;
@@ -57,11 +57,18 @@ footer{
 
 .rodape{
     margin-top: 20px;
+    margin-left: 200px;
+    height: 20px;
+    width: 300px;
+}
+#icones{
+    margin-left: 400px;
+    width: 75px;
 }
 
  i {
-    margin-top: 70px;
-margin-left: 90px;
+    margin-top: 60px;
+
 }
 .container {
     display: inline-block;

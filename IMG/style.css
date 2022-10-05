@@ -3,7 +3,7 @@
     padding: 0;
 }
 header{
-    background-color: darkgreen;
+    background-image: url("./download.jpg");
 }
 
 ul, li{
@@ -11,13 +11,13 @@ ul, li{
     text-decoration: none;
     margin-left: 60px;
     color: white;
-    margin-top: 25px;
+    margin-top: 15px;
     
 }
 
 #txtBusca{
     float: right;
-    margin-top: 155px;
+    margin-top: 140px;
     margin-right: 55px;
 }
 header {
@@ -27,12 +27,12 @@ header {
 .titulo{
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-left: 350px;
+    margin-left: 535px;
   
     display: inline-block;
 }
 .quadrado1{
-    width: 45%;
+    width: 50%;
     height: 500px;
     background-color: chartreuse;
     display: inline-block;
@@ -46,7 +46,7 @@ header {
     float: right;
         display: inline-block;
         margin-top: 30px;
-        margin-right: 55px;
+        margin-right: 60px;
 }
 footer{
     background-color: darkolivegreen;
